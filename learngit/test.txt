@@ -11,4 +11,8 @@
 aaaaaaaaaaaaaaaaaaaaaaa 
 cccccccccccccccccccccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeecccccc
 ccccccccccccc
+<<<<<<< HEAD
 µÄ¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥wwwwwwwwwwwwww
+=======
+µÄ¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥
+>>>>>>> feature
